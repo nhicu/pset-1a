@@ -8,26 +8,26 @@ To get started, create a [GitHub](https://github.com/) repository to store your 
 
 ### Setup
 
-1. Login to your GitHub account and create a new repository named `pset-1a`.
+1. Login to your GitHub account and create a new repository named `pset-1`.
 2. In the terminal, navigate to your `APCSP` directory on the `Desktop`.
 ```
 $ cd ~/Desktop/APCSP
 ```
-3. Clone my skeleton repository into a directory named `pset-1a`.
+3. Clone my skeleton repository into a directory named `pset-1`.
 ```
 $ git clone git@github.com:ap-principles-ucvts/pset-1a-skeleton.git pset-1a
 ```
-4. Change into your newly created `pset-1a` directory.
+4. Change into your newly created `pset-1` directory.
 ```
-$ cd pset-1a
+$ cd pset-1
 ```
 5. Overwrite the remote, which originally points at my skeleton repository.
 ```
 $ git remote rename origin upstream
 ```
-6. Add a new remote that points at your `pset-1a` repository. Replace `YOUR-USERNAME` with your actual username.
+6. Add a new remote that points at your `pset-1` repository. Replace `YOUR-USERNAME` with your actual username.
 ```
-$ git remote add origin git@github.com:YOUR-USERNAME/pset-1a.git
+$ git remote add origin git@github.com:YOUR-USERNAME/pset-1.git
 ```
 7. Open up the `index.html` file in the text editor of your choice.
 
