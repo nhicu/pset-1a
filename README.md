@@ -15,7 +15,7 @@ $ cd ~/Desktop/APCSP
 ```
 3. Clone my skeleton repository into a directory named `pset-1`.
 ```
-$ git clone git@github.com:ap-principles-ucvts/pset-1a-skeleton.git pset-1a
+$ git clone git@github.com:ap-principles-ucvts/pset-1a-skeleton.git pset-1
 ```
 4. Change into your newly created `pset-1` directory.
 ```
