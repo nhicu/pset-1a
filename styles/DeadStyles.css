@@ -1,0 +1,13 @@
+body{
+  background-color: firebrick;
+}
+p{
+  text-align: center;
+}
+*{
+  margin:10;
+  padding:10;
+}
+h2{
+  color: white
+}
