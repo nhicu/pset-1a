@@ -1,3 +1,39 @@
 h1{
-  color: red;
+  color: firebrick;
+  font-family: courier;
+  text-align: center;
+}
+body{
+  background-color: cornsilk;
+}
+p{
+  text-align: center;
+  font-family: courier;
+}
+*{
+  margin:10;
+  padding:10;
+}
+h2{
+  color: firebrick;
+  font-family: courier;
+}
+h3{
+  color: firebrick;
+  font-family: courier;
+}
+ol{
+  font-family: courier;
+}
+ul{
+  font-family: courier;
+}
+tr{
+  font-family: courier;
+}
+a{
+  font-family: courier;
+}
+div{
+  text-align: center;
 }
