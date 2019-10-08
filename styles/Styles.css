@@ -1,3 +1,78 @@
 h1{
-  color: red;
+  color: firebrick;
+  font-family: courier;
+  text-align: center;
+}
+body{
+  background-color: cornsilk;
+}
+p{
+  text-align: center;
+  font-family: courier;
+  font-size: 14px;
+}
+*{
+  margin:10;
+  padding:10;
+}
+h2, h3{
+  color: firebrick;
+  font-family: courier;
+}
+ol, ul, tr, a{
+  font-family: courier;
+  font-size: 15px;
+}
+div{
+  text-align: center;
+}
+.button {
+  text-decoration: none;
+  color: firebrick;
+  font-family: courier;
+  font-size: 18px;
+  margin: 25px;
+}
+ol{
+  background:#DCDCDC;
+  padding: 20px;
+  border: 3px solid black;
+  width: 100%;
+}
+
+a {
+  font-size: 10px;
+}
+
+.section{
+  background-color: goldenrod;
+  border: 2px solid black;
+
+}
+.dog{
+  background-color: crimson;
+  border: 2px solid black;
+}
+#rabbit{
+  position:;
+  ;
+
+}
+#cat{
+
+}
+#pig{
+
+}
+#bird{
+
+}
+#tooth{
+
+}
+a[title] {
+  color: gray
+}
+div li.lol{
+  font-style: italic;
 }
