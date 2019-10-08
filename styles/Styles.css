@@ -9,12 +9,16 @@ body{
 p{
   text-align: center;
   font-family: courier;
+<<<<<<< HEAD
   font-size: 14px;
+=======
+>>>>>>> b3b13bca210ab0978967aca8b7fba2be164c646c
 }
 *{
   margin:10;
   padding:10;
 }
+<<<<<<< HEAD
 h2, h3{
   color: firebrick;
   font-family: courier;
@@ -75,4 +79,28 @@ a[title] {
 }
 div li.lol{
   font-style: italic;
+=======
+h2{
+  color: firebrick;
+  font-family: courier;
+}
+h3{
+  color: firebrick;
+  font-family: courier;
+}
+ol{
+  font-family: courier;
+}
+ul{
+  font-family: courier;
+}
+tr{
+  font-family: courier;
+}
+a{
+  font-family: courier;
+}
+div{
+  text-align: center;
+>>>>>>> b3b13bca210ab0978967aca8b7fba2be164c646c
 }
