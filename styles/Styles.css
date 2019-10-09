@@ -45,7 +45,7 @@ ol{
 }
 
 a {
-  font-size: 10px;
+  font-size: 20px;
 }
 
 .section{
@@ -58,24 +58,42 @@ a {
   border: 2px solid black;
 }
 #rabbit{
-  position:;
-  ;
-
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 15%;
+border: solid black;
 }
 #cat{
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: solid black;
 }
 #pig{
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: solid black;
 }
 #bird{
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: solid black;
 }
 #tooth{
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: solid black;
 }
-a[title] {
-  color: gray
+a[href="https://www.ucvts.tec.nj.us"] {
+  color: firebrick;
 }
 div li.lol{
   font-style: italic;
@@ -102,5 +120,7 @@ a{
 }
 div{
   text-align: center;
->>>>>>> b3b13bca210ab0978967aca8b7fba2be164c646c
+}
+a:hover{
+  color: black;
 }
