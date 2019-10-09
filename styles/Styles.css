@@ -46,8 +46,12 @@ ol{
 
 a {
   font-size: 20px;
+  text-decoration:none;
+  color:#000000;
 }
-
+a:hover{
+  color:#FF9300;
+}
 .section{
   background-color: goldenrod;
   border: 2px solid black;
@@ -69,14 +73,14 @@ border: solid black;
   margin-left: auto;
   margin-right: auto;
   width: 15%;
-  border: solid black;
+  border: red;
 }
 #pig{
   display: block;
   margin-left: auto;
   margin-right: auto;
   width: 15%;
-  border: solid black;
+  border: white;
 }
 #bird{
   display: block;
@@ -90,7 +94,7 @@ border: solid black;
   margin-left: auto;
   margin-right: auto;
   width: 15%;
-  border: solid black;
+  border: grey;
 }
 a[href="https://www.ucvts.tec.nj.us"] {
   color: firebrick;
@@ -120,7 +124,4 @@ a{
 }
 div{
   text-align: center;
-}
-a:hover{
-  color: black;
 }
