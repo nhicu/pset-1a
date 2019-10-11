@@ -1,0 +1,127 @@
+h1{
+  color: firebrick;
+  font-family: courier;
+  text-align: center;
+}
+body{
+  background-color: cornsilk;
+}
+p{
+  text-align: center;
+  font-family: courier;
+<<<<<<< HEAD
+  font-size: 14px;
+=======
+>>>>>>> b3b13bca210ab0978967aca8b7fba2be164c646c
+}
+*{
+  margin:10;
+  padding:10;
+}
+<<<<<<< HEAD
+h2, h3{
+  color: firebrick;
+  font-family: courier;
+}
+ol, ul, tr, a{
+  font-family: courier;
+  font-size: 15px;
+}
+div{
+  text-align: center;
+}
+.button {
+  text-decoration: none;
+  color: firebrick;
+  font-family: courier;
+  font-size: 18px;
+  margin: 25px;
+}
+ol{
+  background:#DCDCDC;
+  padding: 20px;
+  border: 3px solid black;
+  width: 100%;
+}
+
+a {
+  font-size: 20px;
+  text-decoration:none;
+  color:#000000;
+}
+a:hover{
+  color:#FF9300;
+}
+.section{
+  background-color: goldenrod;
+  border: 2px solid black;
+
+}
+.dog{
+  background-color: crimson;
+  border: 2px solid black;
+}
+#rabbit{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 15%;
+border: solid black;
+}
+#cat{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: red;
+}
+#pig{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: white;
+}
+#bird{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: solid black;
+}
+#tooth{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 15%;
+  border: grey;
+}
+a[href="https://www.ucvts.tec.nj.us"] {
+  color: firebrick;
+}
+div li.lol{
+  font-style: italic;
+=======
+h2{
+  color: firebrick;
+  font-family: courier;
+}
+h3{
+  color: firebrick;
+  font-family: courier;
+}
+ol{
+  font-family: courier;
+}
+ul{
+  font-family: courier;
+}
+tr{
+  font-family: courier;
+}
+a{
+  font-family: courier;
+}
+div{
+  text-align: center;
+}
